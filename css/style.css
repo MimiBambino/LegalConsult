@@ -186,7 +186,7 @@ svg {
 }
 
 #work-circle {
-	fill: #646464;
+	fill: #006c88;
 }
 
 #work-circle:hover {
@@ -194,7 +194,8 @@ svg {
 }
 
 #bankruptcy-circle, #skills-circle {
-	fill: #03bbc5;
+	/*fill: #03bbc5;*/
+	fill: #05b582
 }
 
 #bankruptcy-circle:hover, #skills-circle:hover {
@@ -202,11 +203,14 @@ svg {
 }
 
 #projects-circle {
-	fill: #008cb0;
+	
 }
 
 #projects-circle:hover {
 	fill: #26B2D6;
+}
+#student-loans {
+	fill: #027390;
 }
 
 #about-circle {
